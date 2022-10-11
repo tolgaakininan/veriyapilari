@@ -21,7 +21,7 @@ def reverseString(string):
         reversedString+=stack.pop()
     return reversedString
 if __name__=='__main__':
-   print(reverseString("We will conquere COVI-19"))
+   print(reverseString("Racecar issi racecar"))
 
 
    
